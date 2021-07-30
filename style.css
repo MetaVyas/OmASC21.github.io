@@ -43,7 +43,10 @@ p{
 .container {
     position: relative;
     text-align: center;
-    color: white;
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
   }
 .centerimg {
     display: block;
